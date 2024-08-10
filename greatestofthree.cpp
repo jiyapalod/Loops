@@ -27,3 +27,9 @@ int main()
 	}
 	
 }
+
+
+/*OUTPUT: 
+Enter three numbers: 
+34 35 36
+Largest Number: 36*\
